@@ -1,7 +1,7 @@
 # My first machine-learning project.
+## View the report here: https://docs.google.com/document/d/1YNQq2cFqSEOqye-WiiaxDlu0qAg4tkWzIUL0TwcogGk/edit?tab=t.0
+
 Made for an AI class assignment.
-View the assignment here:
-https://docs.google.com/document/d/1YNQq2cFqSEOqye-WiiaxDlu0qAg4tkWzIUL0TwcogGk/edit?tab=t.0
 
 Datasets from Yahoo Finance (published on Kaggle): https://www.kaggle.com/datasets/debashish311601/commodity-prices
 
