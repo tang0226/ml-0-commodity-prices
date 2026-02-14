@@ -1,5 +1,5 @@
 # My first machine-learning project.
-## View the report here: https://docs.google.com/document/d/1YNQq2cFqSEOqye-WiiaxDlu0qAg4tkWzIUL0TwcogGk/edit?tab=t.0
+## View my report <a href='https://docs.google.com/document/d/1YNQq2cFqSEOqye-WiiaxDlu0qAg4tkWzIUL0TwcogGk/edit?tab=t.0' target='_blank'>here</a>
 
 Made for an AI class assignment.
 
