@@ -1,4 +1,4 @@
-### My first machine-learning project.
+## My first machine-learning project.
 Made for an AI class assignment.
 
 Datasets from Yahoo Finance (published on Kaggle): https://www.kaggle.com/datasets/debashish311601/commodity-prices
